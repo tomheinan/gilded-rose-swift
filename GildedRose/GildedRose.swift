@@ -10,7 +10,7 @@ import Foundation
 
 public class GildedRose {
 
-    public static func updateQuality(var items: Array<Item>) {
+    public static func updateQuality(var items: Array<Item>) -> [Item] {
         for var i = 0; i < items.count; i++ {
             if items[i].name != "Aged Brie" && items[i].name != "Backstage passes to a TAFKAL80ETC concert" {
                 if items[i].quality > 0 {
@@ -60,5 +60,7 @@ public class GildedRose {
                 }
             }
         }
+        
+        return items
     }
 }
