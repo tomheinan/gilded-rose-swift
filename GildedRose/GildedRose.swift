@@ -6,8 +6,6 @@
 //  Copyright © 2015 Tom Heinan. All rights reserved.
 //
 
-import Foundation
-
 public class GildedRose {
 
     public static func updateQuality(var items: Array<Item>) -> [Item] {
