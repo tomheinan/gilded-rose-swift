@@ -6,7 +6,7 @@
 //  Copyright © 2015 Tom Heinan. All rights reserved.
 //
 
-struct Item {
+public struct Item {
     
     var name: String
     var sellIn: Int
