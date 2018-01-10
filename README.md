@@ -10,7 +10,7 @@ cd gilded-rose-swift
 open GildedRose.xcodeproj/
 ```
 
-The master branch contains the starting point for the exercise. You'll need Xcode 7 to run the tests (and you can run them with the **&#x2318;U** shortcut by default).
+The master branch contains the starting point for the exercise. You'll need Xcode 9 to run the tests (and you can run them with the **&#x2318;U** shortcut by default).
 
 ## Original Text
 
