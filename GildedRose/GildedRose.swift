@@ -8,7 +8,7 @@
 
 public class GildedRose {
 
-    public static func updateQuality(items: Array<Item>) -> [Item] {
+    public static func updateQuality(_ items: Array<Item>) -> [Item] {
         var items = items
         for i in 0 ..< items.count {
             if items[i].name != "Aged Brie" && items[i].name != "Backstage passes to a TAFKAL80ETC concert" {
