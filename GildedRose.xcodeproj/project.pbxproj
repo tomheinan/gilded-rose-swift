@@ -24,6 +24,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		330B115D2AD33FFB00BACCD3 /* GildedRose.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = GildedRose.xctestplan; sourceTree = "<group>"; };
 		E2F4C30B1B956315003632EA /* GildedRose.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GildedRose.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2F4C3101B956315003632EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E2F4C3151B956316003632EA /* GildedRoseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GildedRoseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -55,6 +56,7 @@
 		E2F4C3011B956315003632EA = {
 			isa = PBXGroup;
 			children = (
+				330B115D2AD33FFB00BACCD3 /* GildedRose.xctestplan */,
 				E2F4C30D1B956315003632EA /* GildedRose */,
 				E2F4C3191B956316003632EA /* GildedRoseTests */,
 				E2F4C30C1B956315003632EA /* Products */,

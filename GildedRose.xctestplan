@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "14AC0DF2-788D-4831-88B9-75A057F66B04",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:GildedRose.xcodeproj",
+        "identifier" : "E2F4C3141B956316003632EA",
+        "name" : "GildedRoseTests"
+      }
+    }
+  ],
+  "version" : 1
+}
