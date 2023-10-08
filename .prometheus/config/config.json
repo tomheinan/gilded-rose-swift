@@ -1,0 +1,17 @@
+{
+    "id": "486da85a-8a43-4eaf-bb1d-62dc3b90e28d",
+    "human_readable_name": "GildedRose",
+    "primary_language": "swift",
+    "framework": "Swift",
+    "created_at": "2023-10-02 13:14:55.108942",
+    "source_directory": "GildedRose",
+    "test_directory": "GildedRoseTests",
+    "documentation_directory": "docs",
+    "testing_framework": "xctest",
+    "main_file": "GildedRose/GildedRose.swift",
+    "package_manager": "swiftpackagemanager",
+    "package_manager_install_command": "pip install -e .",
+    "test_command": "xcodebuild test -scheme GildedRose",
+    "build_command": "xcodebuild",
+    "run_command": ""
+}
