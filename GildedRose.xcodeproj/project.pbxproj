@@ -10,7 +10,6 @@
 		E2F4C3161B956316003632EA /* GildedRose.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2F4C30B1B956315003632EA /* GildedRose.framework */; };
 		E2F4C31B1B956316003632EA /* GildedRoseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2F4C31A1B956316003632EA /* GildedRoseTests.swift */; };
 		E2F4C3261B956365003632EA /* GildedRose.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2F4C3251B956365003632EA /* GildedRose.swift */; };
-		E2F4C3281B956415003632EA /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2F4C3271B956415003632EA /* Item.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -199,7 +198,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E2F4C3281B956415003632EA /* Item.swift in Sources */,
 				E2F4C3261B956365003632EA /* GildedRose.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
